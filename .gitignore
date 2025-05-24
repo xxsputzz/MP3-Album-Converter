@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File lists
+files_to_merge.txt
+
+# Downloaded MP3 files
+*.mp3
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
